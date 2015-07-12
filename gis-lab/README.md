@@ -1,9 +1,6 @@
 Cholera Pumps and Death -- GIS Case Study
 -----------------------------------------
 
-Cholera Pumps and Death -- GIS Case Study
------------------------------------------
-
 * Get [Google Earth Pro](https://www.google.com/earth/)
  * Look for the "Google Earth Pro" box and click "Explore"
  * Scroll to the bottom and click "Download Google Earth Pro"
